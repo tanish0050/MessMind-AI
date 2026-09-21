@@ -1,5 +1,8 @@
 # MessMind AI
 
+## Live Project Link
+https://messmind-ai-rnsz39tsdja64cxrfeepjz.streamlit.app/
+
 ## Smart Food Waste Prediction & Reduction System
 
 MessMind AI is an AI-powered sustainability project designed to help
